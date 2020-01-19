@@ -42,7 +42,7 @@ end
 # Active Support
 gem "dalli"
 gem "listen", "~> 3.2", require: false
-gem "libxml-ruby", platforms: :ruby
+gem "libxml-ruby", "3.1.0", platforms: :ruby
 gem "connection_pool", require: false
 gem "rexml", require: false
 
